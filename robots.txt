@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rentalagreement.website/sitemap.xml
